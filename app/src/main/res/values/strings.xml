@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Money Exchange</string>
+    <string name="Titulo">CONVERSIÓN DE MONEDAS</string>
+    <string name="img">Cambio</string>
+    <string name="tipo">Tipo de moneda que quiere cambiar:</string>
+    <string name="tipo2">Tipo de moneda a convertir:</string>
+    <string name="ingresar">Ingrese el valor a convertir:</string>
+    <string name="val">Valor</string>
+    <string name="conv">CONVERTIR</string>
+
+
+    <string-array name="Monedas">
+        <item>Pesos Colombianos</item>
+        <item>Pesos Mexicanos</item>
+        <item>Dolares</item>
+        <item>Euros</item>
+    </string-array>
+</resources>
